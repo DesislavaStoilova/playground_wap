@@ -1,0 +1,5 @@
+base_urls:
+  ui_test_automation_playground_base_url: http://uitestingplayground.com
+
+mobile_emulation_device:
+  device_name: Pixel 2 #Device options: iPhone X, Pixel 2, Galaxy S5, iPad Pro etc
